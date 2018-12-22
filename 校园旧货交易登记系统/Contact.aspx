@@ -15,13 +15,16 @@
             <p>
                  
                 <!--
-                    //123
+                    //123332423534634
                     onclick="btnLogin_Click"
                     onclick="btnRegister_Click"
                 -->
                 
-                <asp:Button ID="btnLogin" runat="server" Text="登录" OnClick="btnLogin_Click" Width="44px" />&nbsp;  
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;             <asp:Button ID="btnRegister" runat="server" Text="注册" Height="25px" Width="44px"  />           </p> 
+                <asp:Button ID="btnLogin" runat="server" Text="登录" OnClick="btnLogin_Click" Width="44px" />
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;             
+                <asp:Button ID="btnRegister" runat="server" Text="注册" Height="25px" Width="44px"  />           
+
+            </p> 
         
      </div> 
     <address>
