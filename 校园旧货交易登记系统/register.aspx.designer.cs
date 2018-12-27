@@ -10,7 +10,7 @@
 namespace 校园旧货交易登记系统 {
     
     
-    public partial class Contact {
+    public partial class register {
         
         /// <summary>
         /// lbusername 控件。
@@ -31,48 +31,48 @@ namespace 校园旧货交易登记系统 {
         protected global::System.Web.UI.WebControls.TextBox tbusername;
         
         /// <summary>
-        /// lbpsw 控件。
+        /// Label1 控件。
         /// </summary>
         /// <remarks>
         /// 自动生成的字段。
         /// 若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label lbpsw;
+        protected global::System.Web.UI.WebControls.Label Label1;
         
         /// <summary>
-        /// tbpsw 控件。
+        /// TextBox1 控件。
         /// </summary>
         /// <remarks>
         /// 自动生成的字段。
         /// 若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox tbpsw;
+        protected global::System.Web.UI.WebControls.TextBox TextBox1;
         
         /// <summary>
-        /// btnLogin 控件。
+        /// Label2 控件。
         /// </summary>
         /// <remarks>
         /// 自动生成的字段。
         /// 若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button btnLogin;
+        protected global::System.Web.UI.WebControls.Label Label2;
         
         /// <summary>
-        /// btnRegister 控件。
+        /// TextBox2 控件。
         /// </summary>
         /// <remarks>
         /// 自动生成的字段。
         /// 若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button btnRegister;
+        protected global::System.Web.UI.WebControls.TextBox TextBox2;
         
         /// <summary>
-        /// btnForgetPws 控件。
+        /// btsubmit 控件。
         /// </summary>
         /// <remarks>
         /// 自动生成的字段。
         /// 若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button btnForgetPws;
+        protected global::System.Web.UI.WebControls.Button btsubmit;
     }
 }
