@@ -8,7 +8,7 @@ using System.Web.UI.WebControls;
 namespace 校园旧货交易登记系统
 {
     public partial class register : System.Web.UI.Page
-    {
+    {//999
         protected void Page_Load(object sender, EventArgs e)
         {
 
